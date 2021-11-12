@@ -1,0 +1,12 @@
+D:\Projects\Ecom-template\APIs\Auth-API\Auth.Core\bin\Debug\net5.0\Auth.Core.deps.json
+D:\Projects\Ecom-template\APIs\Auth-API\Auth.Core\bin\Debug\net5.0\Auth.Core.dll
+D:\Projects\Ecom-template\APIs\Auth-API\Auth.Core\bin\Debug\net5.0\ref\Auth.Core.dll
+D:\Projects\Ecom-template\APIs\Auth-API\Auth.Core\bin\Debug\net5.0\Auth.Core.pdb
+D:\Projects\Ecom-template\APIs\Auth-API\Auth.Core\obj\Debug\net5.0\Auth.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Ecom-template\APIs\Auth-API\Auth.Core\obj\Debug\net5.0\Auth.Core.AssemblyInfoInputs.cache
+D:\Projects\Ecom-template\APIs\Auth-API\Auth.Core\obj\Debug\net5.0\Auth.Core.AssemblyInfo.cs
+D:\Projects\Ecom-template\APIs\Auth-API\Auth.Core\obj\Debug\net5.0\Auth.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Ecom-template\APIs\Auth-API\Auth.Core\obj\Debug\net5.0\Auth.Core.dll
+D:\Projects\Ecom-template\APIs\Auth-API\Auth.Core\obj\Debug\net5.0\ref\Auth.Core.dll
+D:\Projects\Ecom-template\APIs\Auth-API\Auth.Core\obj\Debug\net5.0\Auth.Core.pdb
+D:\Projects\Ecom-template\APIs\Auth-API\Auth.Core\obj\Debug\net5.0\Auth.Core.csproj.AssemblyReference.cache
